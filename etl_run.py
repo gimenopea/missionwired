@@ -74,4 +74,5 @@ def run():
     print('acquisitions.csv file created')
 
 if __name__ == "__main__":
+    run()
     print('ETL task completed')
